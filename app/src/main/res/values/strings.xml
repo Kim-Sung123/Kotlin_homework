@@ -13,4 +13,11 @@
     <string name="facebook">Facebook</string>
     <string name="github">GitHub</string>
     <string name="google">Google</string>
+    <string name="createaccount">Create Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btnregister">Register</string>
+    <string name="login">Log in</string>
+    <string name="already_have_account">Already have account?</string>
 </resources>
