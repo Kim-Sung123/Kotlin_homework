@@ -4,4 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="app_background">#121d1e</color>
     <color name="app_primary">#68b5b4</color>
+    <color name="teal_accent">#82E9DE</color>
+
+
 </resources>
