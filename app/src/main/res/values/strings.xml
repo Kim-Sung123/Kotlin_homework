@@ -20,4 +20,7 @@
     <string name="btnregister">Register</string>
     <string name="login">Log in</string>
     <string name="already_have_account">Already have account?</string>
+    <string name="log_in">Log in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="logo2">Logo</string>
 </resources>
